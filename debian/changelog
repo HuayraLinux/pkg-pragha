@@ -1,3 +1,9 @@
+pragha (1.3.3-4) unstable; urgency=medium
+
+  * rebuild para Huayra 4
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 03 May 2018 12:00:58 -0300
+
 pragha (1.3.3-3) unstable; urgency=medium
 
   * build sin dependencia de libxfce
